@@ -1,8 +1,8 @@
 # GCAM Config for Shamim's SGCAM 8.4 on OnePlus 7
 
 ### Description:
-Very basic GCAM Config for Shamim's SGCAM 8.4 on OnePlus 7.\
-Just selected lens and activated some options.
+Very basic GCAM config for Shamim's SGCAM 8.4 on OnePlus 7.\
+Just selected sensors and activated some options so camera works properly on this phone.
 
 ### Installtion:
 - copy .xml file to Storage\SGCAM\XML\
